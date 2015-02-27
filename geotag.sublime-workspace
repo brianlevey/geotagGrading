@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"geotag",
+				"geotagGrading	import"
+			],
+			[
+				"tr",
+				"trueLocation	class"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"ma",
+				"mainChart"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/JSC.sublime-build",
+	"command_palette":
+	{
+		"height": 250.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 258.0,
+		"history":
+		[
+			"Math.sqrt(4);",
+			"Math.floor(Math.sqrt(i));",
+			"Math.floor(Math.sqrt(i))",
+			"text.findAll('br')",
+			"from urllib import urlretrieve",
+			"import urllib",
+			"import bs4",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brianlevey/geotag/geotag/settings.py",
+		"/Users/brianlevey/geotag/geotagGrading/views.py",
+		"/Users/brianlevey/geotag/geotagGrading/admin.py",
+		"/Users/brianlevey/geotag/geotagGrading/urls.py",
+		"/Users/brianlevey/geotag/grading/models.py",
+		"/Users/brianlevey/geotag/grading/admin.py",
+		"/Users/brianlevey/geotag/geotag.sublime-project",
+		"/Users/brianlevey/dashboard/data/data.csv",
+		"/Users/brianlevey/dashboard/js/areaChart.js",
+		"/Users/brianlevey/dashboard/customstyle.css",
+		"/Users/brianlevey/dashboard/index.html",
+		"/Users/brianlevey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brianlevey/dashboard/dashboard.html",
+		"/Users/brianlevey/Documents/d3practice/data/data.tsv",
+		"/Users/brianlevey/Documents/d3practice/css/bootstrap-theme.min.css",
+		"/Users/brianlevey/Documents/d3practice/bootstrapTest.html",
+		"/Users/brianlevey/Documents/d3practice/script.js",
+		"/Users/brianlevey/Documents/d3practice/style.css",
+		"/Users/brianlevey/Dropbox/D2D regional/CFnigeria/shinyapps/brianlevey/CFnigeria.dcf",
+		"/Users/brianlevey/Dropbox/D2D regional/CFnigerianew/www/style.css",
+		"/Users/brianlevey/Dropbox/D2D regional/CFnigeria/shinyapps/brianlevey/ui.R",
+		"/Users/brianlevey/Dropbox/D2D regional/nigeria delivered 20150205/nigeria.models.R",
+		"/Users/brianlevey/Documents/djangoTest/mysite/polls/views.py",
+		"/Users/brianlevey/Documents/djangoTest/mysite/polls/templates/polls/index.html",
+		"/Users/brianlevey/Documents/djangoTest/mysite/polls/templates/polls/detail.html",
+		"/Users/brianlevey/Documents/djangoTest/mysite/polls/detail.html",
+		"/Users/brianlevey/Documents/djangoTest/mysite/mysite/urls.py",
+		"/Users/brianlevey/Documents/djangoTest/mysite/polls/urls.py",
+		"/Users/brianlevey/Documents/djangoTest/mysite/polls/models.py",
+		"/Users/brianlevey/Documents/djangoTest/mysite/polls/admin.py",
+		"/Users/brianlevey/Documents/djangoTest/mysite/mysite/settings.py",
+		"/Users/brianlevey/Documents/djangoTest/mysite/manage.py",
+		"/Users/brianlevey/Documents/djangoTest/mysite/mysite/templates/admin/base_site.html",
+		"/Users/brianlevey/the_odin_project/project_euler/Euler p3.js",
+		"/Users/brianlevey/the_odin_project/project_euler/Euler p2.js",
+		"/Users/brianlevey/the_odin_project/project_euler/Euler p1.js",
+		"/Users/brianlevey/the_odin_project/Eulerp2.js",
+		"/Users/brianlevey/the_odin_project/Eulerp1.js",
+		"/Users/brianlevey/the_odin_project/test.js",
+		"/Users/brianlevey/the_odin_project/Euler3.js",
+		"/Users/brianlevey/Library/Application Support/Sublime Text 3/Packages/User/JSC.sublime-build",
+		"/Users/brianlevey/railsbridge/test_app/Gemfile",
+		"/Users/brianlevey/Documents/scrape.farc/scrape.py",
+		"/Users/brianlevey/Documents/scrape.farc/venv/bin/pip",
+		"/Users/brianlevey/Documents/scrape.farc/venv/include/python2.7/Python-ast.h",
+		"/Users/brianlevey/Documents/scrape.farc/venv/lib/python2.7/site-packages/setuptools/package_index.py",
+		"/Users/brianlevey/Documents/scrape.farc/venv/include/python2.7/import.h",
+		"/Users/brianlevey/Documents/scrape.farc/venv/include/python2.7/intobject.h",
+		"/Users/brianlevey/Documents/scrape.farc/venv/lib/python2.7/config/install-sh",
+		"/Users/brianlevey/Documents/scrape.farc/venv/lib/python2.7/site-packages/setuptools/command/install_lib.py",
+		"/Users/brianlevey/Documents/scrape.farc/scrape_farc.sublime-project",
+		"/Users/brianlevey/Documents/scrape.farc/scrape.sublime-workspace",
+		"/Users/brianlevey/Documents/scrape.farc/scrape.sublime-project",
+		"/Users/brianlevey/Documents/scrape.farc/scrap.sublime-project",
+		"/Users/brianlevey/Documents/scrape.farc/old.scrape.farc.py",
+		"/Users/brianlevey/Documents/scrape.farc/scrape.farc.py",
+		"/Users/brianlevey/Documents/scrape.farc/py.venv/farcscrape.py",
+		"/Users/brianlevey/Documents/test.py",
+		"/Users/brianlevey/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/brianlevey/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/brianlevey/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/brianlevey/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/brianlevey/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"  ",
+			" ",
+			"  ",
+			"side"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "geotag.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

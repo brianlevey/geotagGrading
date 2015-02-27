@@ -1,0 +1,7500 @@
+[{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16552782",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "House of Representatives (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13575290",
+        "matched": "CROSS RIVER STATE (2345891)",
+        "asciiname": "Cross River State",
+        "feature": "ADM1",
+        "source": "Democratic People's Party",
+        "event_text": {
+
+        },
+        "target": "Liyel Imoke"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13786083",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Ethiopia"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17884512",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Citizen (Africa)",
+        "event_text": {
+
+        },
+        "target": "Other Authorities / Officials (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17938760",
+        "matched": "ISA (2337275)",
+        "asciiname": "Isa",
+        "feature": "PPL",
+        "source": "Congress (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17049599",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Independent National Electoral Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18923179",
+        "matched": "YAKUBU (2318455)",
+        "asciiname": "Yakubu",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16148553",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "People's Democratic Party (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Okwesilieze Nwodo"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8075776",
+        "matched": "ANAMBRA STATE (2349961)",
+        "asciiname": "Anambra State",
+        "feature": "ADM1",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Bola Ahmed Tinubu"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15454658",
+        "matched": "ABBA (2341204)",
+        "asciiname": "Abba",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16899751",
+        "matched": "YOBE STATE (2597367)",
+        "asciiname": "Yobe State",
+        "feature": "ADM1",
+        "source": "All Nigeria Peoples Party",
+        "event_text": {
+
+        },
+        "target": "People's Democratic Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12610662",
+        "matched": "YENAGOA (2318123)",
+        "asciiname": "Yenagoa",
+        "feature": "PPLA",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Criminal (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7526607",
+        "matched": "HERE (7015671)",
+        "asciiname": "Here",
+        "feature": "PPL",
+        "source": "Ghana",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21110818",
+        "matched": "BORNO STATE (2346794)",
+        "asciiname": "Borno State",
+        "feature": "ADM1",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "2988527",
+        "matched": "USHAFA (2319614)",
+        "asciiname": "Ushafa",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Bill Clinton"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12520616",
+        "matched": "LOKOJA (2331939)",
+        "asciiname": "Lokoja",
+        "feature": "PPLA",
+        "source": "People's Democratic Party (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Senate (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16649390",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Foreign Affairs (Egypt)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8498193",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Lawyer/Attorney (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Chekwas Okorie"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23265018",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Combatant (Boko Haram)",
+        "event_text": {
+
+        },
+        "target": "Villager (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12547230",
+        "matched": "UMARU (2320624)",
+        "asciiname": "Umaru",
+        "feature": "PPL",
+        "source": "Umaru Musa Yar'Adua",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10986218",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Mohamed Ibn Chambas",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19692804",
+        "matched": "TUNE (7020863)",
+        "asciiname": "Tune",
+        "feature": "PPL",
+        "source": "People's Democratic Party (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "All Progressives Congress"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14723271",
+        "matched": "ENUGU (2343279)",
+        "asciiname": "Enugu",
+        "feature": "PPLA",
+        "source": "Other Authorities / Officials (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Christiana Anyanwu"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6779332",
+        "matched": "BAUCHI (7729984)",
+        "asciiname": "Bauchi",
+        "feature": "ADM2",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19494507",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10197582",
+        "matched": "DATE (2345110)",
+        "asciiname": "Date",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22782386",
+        "matched": "IBADAN (2339352)",
+        "asciiname": "Ibadan",
+        "feature": "PPL",
+        "source": "All Progressives Congress",
+        "event_text": {
+
+        },
+        "target": "Political Parties (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23539372",
+        "matched": "BENIN CITY (2347283)",
+        "asciiname": "Benin City",
+        "feature": "PPLA",
+        "source": "Ogbeni Rauf Aregbesola",
+        "event_text": {
+
+        },
+        "target": "Adams Oshiomhole"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17766503",
+        "matched": "GHANA (6974494)",
+        "asciiname": "Ghana",
+        "feature": "PPL",
+        "source": "Government Official (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Head of Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10152681",
+        "matched": "IBRAHIM (7019420)",
+        "asciiname": "Ibrahim",
+        "feature": "PPL",
+        "source": "Foreign Affairs (Armenia)",
+        "event_text": {
+
+        },
+        "target": "Foreign Affairs (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14338779",
+        "matched": "GBOKO (7729995)",
+        "asciiname": "Gboko",
+        "feature": "ADM2",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20822603",
+        "matched": "EKITI STATE (2595346)",
+        "asciiname": "Ekiti State",
+        "feature": "ADM1",
+        "source": "All Progressives Congress",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23506676",
+        "matched": "OSOGBO (2325590)",
+        "asciiname": "Osogbo",
+        "feature": "PPLA",
+        "source": "Nigeria Police Force",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15766150",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Inspector General (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Abubakar Rimi"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23389920",
+        "matched": "ABADAM (2353128)",
+        "asciiname": "Abadam",
+        "feature": "PPL",
+        "source": "Insurgent (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16825502",
+        "matched": "MOMODU (2329959)",
+        "asciiname": "Momodu",
+        "feature": "PPL",
+        "source": "National Drug Law Enforcement Agency",
+        "event_text": {
+
+        },
+        "target": "Citizen (India)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23666325",
+        "matched": "SAI (2323978)",
+        "asciiname": "Sai",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Mob (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14674920",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Economic and Financial Crimes Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16899737",
+        "matched": "ADAMAWA STATE (2565342)",
+        "asciiname": "Adamawa State",
+        "feature": "ADM1",
+        "source": "High Ranking Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Democratic Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20766113",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Assemblies (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7565062",
+        "matched": "PORT HARCOURT (7873928)",
+        "asciiname": "Port Harcourt",
+        "feature": "ADM2",
+        "source": "Combatant (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military Personnel - Special (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17863066",
+        "matched": "DAMBOA (2345498)",
+        "asciiname": "Damboa",
+        "feature": "PPLA2",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Criminal (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8264094",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Audu Innocent Ogbeh",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18036192",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Lawyer/Attorney (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Member of the Judiciary (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14204160",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Michael Kaase Aondoakaa"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16663009",
+        "matched": "OGHAREKI (7027817)",
+        "asciiname": "Oghareki",
+        "feature": "PPL",
+        "source": "Femi Babafemi",
+        "event_text": {
+
+        },
+        "target": "Economic and Financial Crimes Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23266396",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23239225",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Li Keqiang",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20866471",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Nigerian Armed Forces",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16464745",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4077799",
+        "matched": "MORE (2329922)",
+        "asciiname": "More",
+        "feature": "PPL",
+        "source": "Professor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "National Universities Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20932535",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Party Member (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18200013",
+        "matched": "SOKOTO STATE (2322907)",
+        "asciiname": "Sokoto State",
+        "feature": "ADM1",
+        "source": "Other Authorities / Officials (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22701055",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Religion (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23427402",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "National Intelligence Agency",
+        "event_text": {
+
+        },
+        "target": "Military Personnel (India)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13911332",
+        "matched": "FRIDAY (7040759)",
+        "asciiname": "Friday",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Joseph Kabila"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17297436",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Employee (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11353830",
+        "matched": "TAKE (6826013)",
+        "asciiname": "Take",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Business (China)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5981954",
+        "matched": "ADAMAWA STATE (2565342)",
+        "asciiname": "Adamawa State",
+        "feature": "ADM1",
+        "source": "Election Commission (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Head of Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12943445",
+        "matched": "ABIA STATE (2565340)",
+        "asciiname": "Abia State",
+        "feature": "ADM1",
+        "source": "Party Member (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Vincent Eze Ogbulafor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18070251",
+        "matched": "CHANGE (2346160)",
+        "asciiname": "Change",
+        "feature": "PPL",
+        "source": "Public Courts (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Governor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12721929",
+        "matched": "IBADAN (2339352)",
+        "asciiname": "Ibadan",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Men (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12547035",
+        "matched": "SOKOTO STATE (2322907)",
+        "asciiname": "Sokoto State",
+        "feature": "ADM1",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15856549",
+        "matched": "LIKE (2332021)",
+        "asciiname": "Like",
+        "feature": "PPL",
+        "source": "Criminal (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Protester (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7870511",
+        "matched": "MORE (2329922)",
+        "asciiname": "More",
+        "feature": "PPL",
+        "source": "South Africa",
+        "event_text": {
+
+        },
+        "target": "Company - Owner or Operator (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13897140",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "House of Representatives (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20900436",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "High Ranking Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Media (Africa)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14035661",
+        "matched": "ONITSHA (2326016)",
+        "asciiname": "Onitsha",
+        "feature": "PPL",
+        "source": "All Progressives Grand Alliance",
+        "event_text": {
+
+        },
+        "target": "Victor Umeh"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22866753",
+        "matched": "YENAGOA (2318123)",
+        "asciiname": "Yenagoa",
+        "feature": "PPLA",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15872632",
+        "matched": "YENAGOA (2318123)",
+        "asciiname": "Yenagoa",
+        "feature": "PPLA",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Governor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12081325",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Residents of the Capital (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Umaru Musa Yar'Adua"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4191292",
+        "matched": "SHARE (2323324)",
+        "asciiname": "Share",
+        "feature": "PPL",
+        "source": "Bank (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3289799",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Yoshiro Mori"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4958903",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Anthony Enahoro"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14430448",
+        "matched": "ENUGU (2343279)",
+        "asciiname": "Enugu",
+        "feature": "PPLA",
+        "source": "Ayogu Eze",
+        "event_text": {
+
+        },
+        "target": "Media Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15539499",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "All Progressives Grand Alliance",
+        "event_text": {
+
+        },
+        "target": "Umaru Musa Yar'Adua"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17617192",
+        "matched": "BAUCHI STATE (2347468)",
+        "asciiname": "Bauchi State",
+        "feature": "ADM1",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19371443",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Independent Corrupt Practices Commission",
+        "event_text": {
+
+        },
+        "target": "Vincent Eze Ogbulafor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5825424",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Nigeria Police Force",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17760786",
+        "matched": "WAKE (2319309)",
+        "asciiname": "Wake",
+        "feature": "PPL",
+        "source": "Libyan Armed Forces",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13549547",
+        "matched": "KADUNA (2335727)",
+        "asciiname": "Kaduna",
+        "feature": "PPLA",
+        "source": "Lawmaker (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Labor Union (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23532997",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Russia"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7419851",
+        "matched": "LAGOS STATE (2332453)",
+        "asciiname": "Lagos State",
+        "feature": "ADM1",
+        "source": "Military Intelligence (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17143754",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Media (Africa)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23264130",
+        "matched": "ILORIN (2337638)",
+        "asciiname": "Ilorin",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Farm Worker (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15224523",
+        "matched": "AUCHI (2348892)",
+        "asciiname": "Auchi",
+        "feature": "PPL",
+        "source": "Senate (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Mansur Muhtar"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6690833",
+        "matched": "CHANGE (2346160)",
+        "asciiname": "Change",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Tanzania"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9453368",
+        "matched": "AKURE (2350839)",
+        "asciiname": "Akure",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5053932",
+        "matched": "MINNA (2330100)",
+        "asciiname": "Minna",
+        "feature": "PPLA",
+        "source": "Atiku Abubakar",
+        "event_text": {
+
+        },
+        "target": "Ibrahim Badamasi Babangida"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22650197",
+        "matched": "DID (2344904)",
+        "asciiname": "Did",
+        "feature": "PPL",
+        "source": "Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12900730",
+        "matched": "KOGI STATE (2597364)",
+        "asciiname": "Kogi State",
+        "feature": "ADM1",
+        "source": "Ohanaeze Ndigbo",
+        "event_text": {
+
+        },
+        "target": "Party Member (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12550459",
+        "matched": "RIBADU (2324535)",
+        "asciiname": "Ribadu",
+        "feature": "PPL",
+        "source": "Nuhu Ribadu",
+        "event_text": {
+
+        },
+        "target": "Business (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16752466",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21134118",
+        "matched": "TOBI (7007286)",
+        "asciiname": "Tobi",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18042643",
+        "matched": "ENUGU (2343279)",
+        "asciiname": "Enugu",
+        "feature": "PPLA",
+        "source": "Assemblies (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23382193",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11489177",
+        "matched": "KATSINA STATE (2334797)",
+        "asciiname": "Katsina State",
+        "feature": "ADM1",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Governor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5681764",
+        "matched": "MADE (2331672)",
+        "asciiname": "Made",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Chinwoke Mbadinuju"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8760126",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Professor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Head of Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8782875",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Jacques Chirac"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22595440",
+        "matched": "TAKE (6826013)",
+        "asciiname": "Take",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20601310",
+        "matched": "ZARIA (7871257)",
+        "asciiname": "Zaria",
+        "feature": "ADM2",
+        "source": "Militant (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Bank (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13409617",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Court Judge (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23397187",
+        "matched": "DID (2344904)",
+        "asciiname": "Did",
+        "feature": "PPL",
+        "source": "Attacker (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21210919",
+        "matched": "BORNO STATE (2346794)",
+        "asciiname": "Borno State",
+        "feature": "ADM1",
+        "source": "Boko Haram",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18004495",
+        "matched": "JOS (2335953)",
+        "asciiname": "Jos",
+        "feature": "PPLA",
+        "source": "Agence France-Presse",
+        "event_text": {
+
+        },
+        "target": "Media Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23408104",
+        "matched": "NASARAWA STATE (2595348)",
+        "asciiname": "Nasarawa State",
+        "feature": "ADM1",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Armed Gang (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16679631",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "World Bank",
+        "event_text": {
+
+        },
+        "target": "Nigerian Bar Association"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6883892",
+        "matched": "TIME (2322123)",
+        "asciiname": "Time",
+        "feature": "PPL",
+        "source": "Adams Oshiomhole",
+        "event_text": {
+
+        },
+        "target": "Labor Union (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19272266",
+        "matched": "KWALE (2332871)",
+        "asciiname": "Kwale",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8388016",
+        "matched": "UMARU (2320624)",
+        "asciiname": "Umaru",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17389332",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Political Parties (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Lawyer/Attorney (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19062303",
+        "matched": "UDOMA (6852790)",
+        "asciiname": "Udoma",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12813082",
+        "matched": "DID (2344904)",
+        "asciiname": "Did",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Court Judge (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11879618",
+        "matched": "BABATUNDE (2348460)",
+        "asciiname": "Babatunde",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Bola Ahmed Tinubu"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21186000",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Royal Administration (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13242241",
+        "matched": "KAA (2335877)",
+        "asciiname": "Kaa",
+        "feature": "PPL",
+        "source": "Civic Group (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Attorney General (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10136389",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "National Conscience Party",
+        "event_text": {
+
+        },
+        "target": "Assemblies (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6294597",
+        "matched": "GO (6852706)",
+        "asciiname": "Go",
+        "feature": "PPL",
+        "source": "Jean Charles de Menezes",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17010900",
+        "matched": "NIGER STATE (2328925)",
+        "asciiname": "Niger State",
+        "feature": "ADM1",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23454961",
+        "matched": "OSOGBO LOCAL GOVERNMENT AREA (8636371)",
+        "asciiname": "Osogbo Local Government Area",
+        "feature": "ADM2",
+        "source": "People's Democratic Party (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "All Progressives Congress"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16119535",
+        "matched": "DANIEL (2345314)",
+        "asciiname": "Daniel",
+        "feature": "PPL",
+        "source": "Bola Ahmed Tinubu",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22877610",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Olusegun Olutoyin Aganga",
+        "event_text": {
+
+        },
+        "target": "Business (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14576006",
+        "matched": "DELTA STATE (2565341)",
+        "asciiname": "Delta State",
+        "feature": "ADM1",
+        "source": "Military Personnel - Special (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8352020",
+        "matched": "FEDERAL REPUBLIC OF NIGERIA (2328926)",
+        "asciiname": "Federal Republic of Nigeria",
+        "feature": "PCLI",
+        "source": "African Union",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17992979",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Inspector General (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18491469",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Senate (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16999758",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Religion (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Party Member (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17146616",
+        "matched": "ZARIA (7871257)",
+        "asciiname": "Zaria",
+        "feature": "ADM2",
+        "source": "Independent National Electoral Commission",
+        "event_text": {
+
+        },
+        "target": "All Nigeria Peoples Party"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21300470",
+        "matched": "KADUNA (2335727)",
+        "asciiname": "Kaduna",
+        "feature": "PPLA",
+        "source": "Niger",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7985593",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Citizen (China)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18702967",
+        "matched": "EDO (2565343)",
+        "asciiname": "Edo",
+        "feature": "ADM1",
+        "source": "Attahiru Muhammadu Jega",
+        "event_text": {
+
+        },
+        "target": "Independent National Electoral Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6017946",
+        "matched": "ADAMAWA STATE (2565342)",
+        "asciiname": "Adamawa State",
+        "feature": "ADM1",
+        "source": "Atiku Abubakar",
+        "event_text": {
+
+        },
+        "target": "All Nigeria Peoples Party"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12377403",
+        "matched": "KOGI STATE (2597364)",
+        "asciiname": "Kogi State",
+        "feature": "ADM1",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Public Courts (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18210927",
+        "matched": "MARU LOCAL GOVERNMENT AREA (8633505)",
+        "asciiname": "Maru Local Government Area",
+        "feature": "ADM2",
+        "source": "Criminal (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Islamic Cleric (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20424219",
+        "matched": "PAN (2325081)",
+        "asciiname": "Pan",
+        "feature": "PPL",
+        "source": "Children (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16125464",
+        "matched": "BAUCHI (7729984)",
+        "asciiname": "Bauchi",
+        "feature": "ADM2",
+        "source": "Court Judge (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Attorney General (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15171020",
+        "matched": "UMUAHIA (2320576)",
+        "asciiname": "Umuahia",
+        "feature": "PPLA",
+        "source": "Men (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Criminal (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23297293",
+        "matched": "DO (2344744)",
+        "asciiname": "Do",
+        "feature": "PPL",
+        "source": "Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12377465",
+        "matched": "MOLETE (2329975)",
+        "asciiname": "Molete",
+        "feature": "PPL",
+        "source": "People's Democratic Party (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5059864",
+        "matched": "ANYIM (2350261)",
+        "asciiname": "Anyim",
+        "feature": "PPL",
+        "source": "Ahmed Mohammed Makarfi",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17780690",
+        "matched": "HUMAN (2339416)",
+        "asciiname": "Human",
+        "feature": "PPL",
+        "source": "Rights Activist (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23508997",
+        "matched": "BAYELSA STATE (2595344)",
+        "asciiname": "Bayelsa State",
+        "feature": "ADM1",
+        "source": "Armed Opposition (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Employee (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8278756",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Iran"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9788363",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Citizen (Burundi)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19191834",
+        "matched": "MINNA (2330100)",
+        "asciiname": "Minna",
+        "feature": "PPLA",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Media Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19617296",
+        "matched": "SAN (2323806)",
+        "asciiname": "San",
+        "feature": "PPL",
+        "source": "Member of the Judiciary (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15421387",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Umar Farouk Abdulmutallab",
+        "event_text": {
+
+        },
+        "target": "Netherlands"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13172449",
+        "matched": "IBADAN (2339352)",
+        "asciiname": "Ibadan",
+        "feature": "PPL",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17790901",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "State Security Service",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21822447",
+        "matched": "BAUCHI STATE (2347468)",
+        "asciiname": "Bauchi State",
+        "feature": "ADM1",
+        "source": "Treasury/Finance Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Umaru Musa Yar'Adua"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3828333",
+        "matched": "JUNE (2335904)",
+        "asciiname": "June",
+        "feature": "PPL",
+        "source": "Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23626403",
+        "matched": "DO (2344744)",
+        "asciiname": "Do",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Christian (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19172895",
+        "matched": "OBUZOR (2591702)",
+        "asciiname": "Obuzor",
+        "feature": "PPL",
+        "source": "Secret Agent (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Indigenous People (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23394254",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Bola Ahmed Tinubu",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23269041",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11376738",
+        "matched": "GOMBE (2340451)",
+        "asciiname": "Gombe",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Governor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19874368",
+        "matched": "KOGI STATE (2597364)",
+        "asciiname": "Kogi State",
+        "feature": "ADM1",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12536933",
+        "matched": "NYANYA (2328504)",
+        "asciiname": "Nyanya",
+        "feature": "PPL",
+        "source": "Thief (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Men (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22446842",
+        "matched": "UMUAHIA (2320576)",
+        "asciiname": "Umuahia",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18256411",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17759573",
+        "matched": "OYO STATE (2325190)",
+        "asciiname": "Oyo State",
+        "feature": "ADM1",
+        "source": "Economic and Financial Crimes Commission",
+        "event_text": {
+
+        },
+        "target": "Governor (Guinea)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19474467",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Mukhtar Ramalan Yero",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12847346",
+        "matched": "GUDU (2340216)",
+        "asciiname": "Gudu",
+        "feature": "PPL",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Member of the Judiciary (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5667151",
+        "matched": "ASABA (2349276)",
+        "asciiname": "Asaba",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Unspecified Actor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11155749",
+        "matched": "KANO (2335203)",
+        "asciiname": "Kano",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Farm Worker (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20427471",
+        "matched": "AGANGA (2352146)",
+        "asciiname": "Aganga",
+        "feature": "PPL",
+        "source": "Olusegun Olutoyin Aganga",
+        "event_text": {
+
+        },
+        "target": "Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6352543",
+        "matched": "OYO (2325200)",
+        "asciiname": "Oyo",
+        "feature": "PPL",
+        "source": "Liberians United for Reconciliation and Democracy",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17058179",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Odein Ajumogobia",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23588862",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Ngozi Okonjo-Iweala",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18285565",
+        "matched": "LONDON (2331921)",
+        "asciiname": "London",
+        "feature": "PPL",
+        "source": "James Onanefe Ibori",
+        "event_text": {
+
+        },
+        "target": "United Kingdom"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6852978",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Agence France-Presse"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12093395",
+        "matched": "OLADIMEJI (6833165)",
+        "asciiname": "Oladimeji",
+        "feature": "PPL",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "House of Representatives (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20643669",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Company - Owner or Operator (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13547612",
+        "matched": "FATIMA (2342675)",
+        "asciiname": "Fatima",
+        "feature": "PPL",
+        "source": "Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Namadi Sambo"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12546885",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Umaru Musa Yar'Adua",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17252866",
+        "matched": "IBRAHIM (7019420)",
+        "asciiname": "Ibrahim",
+        "feature": "PPL",
+        "source": "Lawyer/Attorney (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17205747",
+        "matched": "BAYELSA STATE (2595344)",
+        "asciiname": "Bayelsa State",
+        "feature": "ADM1",
+        "source": "Attacker (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military Personnel - Special (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19348360",
+        "matched": "DAVID (7100682)",
+        "asciiname": "David",
+        "feature": "PPL",
+        "source": "Victor Ndoma-Egba",
+        "event_text": {
+
+        },
+        "target": "Senate (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8528873",
+        "matched": "MAR (2330860)",
+        "asciiname": "Mar",
+        "feature": "PPL",
+        "source": "National Emergency Management Agency",
+        "event_text": {
+
+        },
+        "target": "Environment Department/Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5092072",
+        "matched": "FRIDAY (7040759)",
+        "asciiname": "Friday",
+        "feature": "PPL",
+        "source": "Kofi Annan",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10780425",
+        "matched": "PORT HARCOURT (7873928)",
+        "asciiname": "Port Harcourt",
+        "feature": "ADM2",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22508076",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Linda Thomas-Greenfield",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12674683",
+        "matched": "GEORGE (2566690)",
+        "asciiname": "George",
+        "feature": "PPL",
+        "source": "Umaru Musa Yar'Adua",
+        "event_text": {
+
+        },
+        "target": "United States"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12656656",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "National Emergency Management Agency"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7812860",
+        "matched": "ONDO STATE (2326168)",
+        "asciiname": "Ondo State",
+        "feature": "ADM1",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "2992152",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Children (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18345920",
+        "matched": "TAI (7701524)",
+        "asciiname": "Tai",
+        "feature": "ADM2",
+        "source": "Other Authorities / Officials (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Education Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18085371",
+        "matched": "BIRNIWA (2347041)",
+        "asciiname": "Birniwa",
+        "feature": "PPL",
+        "source": "Boko Haram",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8957978",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22814155",
+        "matched": "MIKE (2330133)",
+        "asciiname": "Mike",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5467159",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17980336",
+        "matched": "BAUCHI (7729984)",
+        "asciiname": "Bauchi",
+        "feature": "ADM2",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Bank (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20731778",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "United Nations",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13806728",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Economic and Financial Crimes Commission",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19941211",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22929477",
+        "matched": "KANO (2335203)",
+        "asciiname": "Kano",
+        "feature": "PPL",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19262808",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16340638",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Political Parties (Grand Coalition)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12632115",
+        "matched": "ANTI (2349756)",
+        "asciiname": "Anti",
+        "feature": "PPL",
+        "source": "Umaru Musa Yar'Adua",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21160079",
+        "matched": "LOKOJA (2331939)",
+        "asciiname": "Lokoja",
+        "feature": "PPLA",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20546350",
+        "matched": "KAURA (2334763)",
+        "asciiname": "Kaura",
+        "feature": "PPL",
+        "source": "Professor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Human Rights Commission (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9250268",
+        "matched": "LIKE (2332021)",
+        "asciiname": "Like",
+        "feature": "PPL",
+        "source": "Chimaroke Nnamani",
+        "event_text": {
+
+        },
+        "target": "European Union"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23197736",
+        "matched": "CHIBOK (2346076)",
+        "asciiname": "Chibok",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "United States"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17754646",
+        "matched": "ADO (2352387)",
+        "asciiname": "Ado",
+        "feature": "PPL",
+        "source": "Canada",
+        "event_text": {
+
+        },
+        "target": "Kayode Fayemi"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13903909",
+        "matched": "AJA (2351521)",
+        "asciiname": "Aja",
+        "feature": "PPL",
+        "source": "Igwe Nwachukwu",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14575102",
+        "matched": "SOKOTO (2322911)",
+        "asciiname": "Sokoto",
+        "feature": "PPLA",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13024872",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Economic Community of West African States"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8376553",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Agence France-Presse",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12781865",
+        "matched": "ORJI (2325731)",
+        "asciiname": "Orji",
+        "feature": "PPL",
+        "source": "Theodore Ahamefule Orji",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19643500",
+        "matched": "KANO (2335203)",
+        "asciiname": "Kano",
+        "feature": "PPL",
+        "source": "Royal Administration (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19743917",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Diezani Alison-Madueke",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12812502",
+        "matched": "LIKE (2332021)",
+        "asciiname": "Like",
+        "feature": "PPL",
+        "source": "Umaru Musa Yar'Adua",
+        "event_text": {
+
+        },
+        "target": "China"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3111704",
+        "matched": "JERUSALEM (6914670)",
+        "asciiname": "Jerusalem",
+        "feature": "PPL",
+        "source": "Wole Soyinka",
+        "event_text": {
+
+        },
+        "target": "Israel"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17287485",
+        "matched": "ALHAJI (2350444)",
+        "asciiname": "Alhaji",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17097024",
+        "matched": "ABEOKUTA (2352947)",
+        "asciiname": "Abeokuta",
+        "feature": "PPLA",
+        "source": "Yinka Odumakin",
+        "event_text": {
+
+        },
+        "target": "Clergy (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9636131",
+        "matched": "DAVID (7100682)",
+        "asciiname": "David",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Media (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21217034",
+        "matched": "MAR (2330860)",
+        "asciiname": "Mar",
+        "feature": "PPL",
+        "source": "Emmanuel Eweta Uduaghan",
+        "event_text": {
+
+        },
+        "target": "Media Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3736328",
+        "matched": "BASE (2347559)",
+        "asciiname": "Base",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Junichiro Koizumi"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19697409",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Victor Umeh",
+        "event_text": {
+
+        },
+        "target": "Peter Obi"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11418045",
+        "matched": "ENUGU STATE (2565344)",
+        "asciiname": "Enugu State",
+        "feature": "ADM1",
+        "source": "All Nigeria Peoples Party",
+        "event_text": {
+
+        },
+        "target": "Party Member (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23214211",
+        "matched": "USE (2319628)",
+        "asciiname": "Use",
+        "feature": "PPL",
+        "source": "United States",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22936404",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Children (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23412682",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Lawmaker (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5847958",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Lawyer/Attorney (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18752765",
+        "matched": "DAMATURU (2345521)",
+        "asciiname": "Damaturu",
+        "feature": "PPLA",
+        "source": "Muslim (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military Personnel - Special (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23388745",
+        "matched": "NDOKWA EAST (7729925)",
+        "asciiname": "Ndokwa East",
+        "feature": "ADM2",
+        "source": "Fula people",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6763381",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Employee (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14882114",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22909469",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "All Progressives Congress",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23663495",
+        "matched": "DAMATURU (2345521)",
+        "asciiname": "Damaturu",
+        "feature": "PPLA",
+        "source": "High Ranking Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23690793",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9618443",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4186514",
+        "matched": "SOKOTO STATE (2322907)",
+        "asciiname": "Sokoto State",
+        "feature": "ADM1",
+        "source": "Sharia Court (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23696555",
+        "matched": "BAGA (2348318)",
+        "asciiname": "Baga",
+        "feature": "PPL",
+        "source": "Militant (Boko Haram)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "2912274",
+        "matched": "BENIN CITY (2347283)",
+        "asciiname": "Benin City",
+        "feature": "PPLA",
+        "source": "Anthony Akhakon Anenih",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22921175",
+        "matched": "MORE (2329922)",
+        "asciiname": "More",
+        "feature": "PPL",
+        "source": "Militant (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17766504",
+        "matched": "GHANA (6974494)",
+        "asciiname": "Ghana",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3481675",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "South Africa",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17067183",
+        "matched": "NASARAWA STATE (2595348)",
+        "asciiname": "Nasarawa State",
+        "feature": "ADM1",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13211627",
+        "matched": "ADUKU (7100260)",
+        "asciiname": "Aduku",
+        "feature": "PPL",
+        "source": "Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Member of the Judiciary (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23397604",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Party President (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11786820",
+        "matched": "AJIBOLA (2351354)",
+        "asciiname": "Ajibola",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19993383",
+        "matched": "MADE (2331672)",
+        "asciiname": "Made",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16839096",
+        "matched": "GAIDAM (2342320)",
+        "asciiname": "Gaidam",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Senate (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20135176",
+        "matched": "SOKOTO (2322911)",
+        "asciiname": "Sokoto",
+        "feature": "PPLA",
+        "source": "Aminu Tambuwal",
+        "event_text": {
+
+        },
+        "target": "Ruling Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20210979",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Business (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20936105",
+        "matched": "BAYELSA STATE (2595344)",
+        "asciiname": "Bayelsa State",
+        "feature": "ADM1",
+        "source": "All Progressives Congress",
+        "event_text": {
+
+        },
+        "target": "Governor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23223798",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Women (Liberia)",
+        "event_text": {
+
+        },
+        "target": "Militant (Boko Haram)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23553786",
+        "matched": "WARRI (2319133)",
+        "asciiname": "Warri",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Head of Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3785741",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Atiku Abubakar",
+        "event_text": {
+
+        },
+        "target": "Switzerland"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9849020",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Militant (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22592715",
+        "matched": "SOKOTO (2322911)",
+        "asciiname": "Sokoto",
+        "feature": "PPLA",
+        "source": "High Ranking Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4104466",
+        "matched": "DANIEL (2345314)",
+        "asciiname": "Daniel",
+        "feature": "PPL",
+        "source": "Kenya",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13008608",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Umaru Musa Yar'Adua",
+        "event_text": {
+
+        },
+        "target": "Germany"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7819619",
+        "matched": "BORNO (2346795)",
+        "asciiname": "Borno",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Militant (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7469721",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Laurent Gbagbo",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14821055",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Lawyer/Attorney (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14616079",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Company - Owner or Operator (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Unspecified Actor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22679743",
+        "matched": "ENUGU STATE (2565344)",
+        "asciiname": "Enugu State",
+        "feature": "ADM1",
+        "source": "Protester (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Cleric (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13657876",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Citizen (Africa)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9587852",
+        "matched": "GO (6852706)",
+        "asciiname": "Go",
+        "feature": "PPL",
+        "source": "Chief Court Judge (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Assemblies (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11517159",
+        "matched": "PORT HARCOURT (7873928)",
+        "asciiname": "Port Harcourt",
+        "feature": "ADM2",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22845160",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Boko Haram",
+        "event_text": {
+
+        },
+        "target": "United Nations"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10011609",
+        "matched": "ABEOKUTA (2352947)",
+        "asciiname": "Abeokuta",
+        "feature": "PPLA",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19503702",
+        "matched": "HONG (2339459)",
+        "asciiname": "Hong",
+        "feature": "PPL",
+        "source": "Armed Opposition (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11409737",
+        "matched": "EKPE (2343660)",
+        "asciiname": "Ekpe",
+        "feature": "PPL",
+        "source": "Children (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16808269",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Ibrahim Shehu Shema",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19781337",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17553946",
+        "matched": "MADE (2331672)",
+        "asciiname": "Made",
+        "feature": "PPL",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19955619",
+        "matched": "TAKE (6826013)",
+        "asciiname": "Take",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Children (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11296522",
+        "matched": "ONI (2326162)",
+        "asciiname": "Oni",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Ruling Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22558415",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Iran",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22847081",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Godswill Obot Akpabio",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14913908",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Danbaba Danfulani Suntai"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9206854",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Spain"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19808796",
+        "matched": "MAR (2330860)",
+        "asciiname": "Mar",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Morocco"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15516310",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Babatunde Osotimehin",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20691134",
+        "matched": "GOMBE (2340451)",
+        "asciiname": "Gombe",
+        "feature": "PPLA",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Senate (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16470054",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "All Nigeria Peoples Party"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21802262",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Nigerian Navy",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5435837",
+        "matched": "WARRI (2319133)",
+        "asciiname": "Warri",
+        "feature": "PPL",
+        "source": "Protester (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Unspecified Actor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14788474",
+        "matched": "IFE (2338898)",
+        "asciiname": "Ife",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Head of Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15857566",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Professor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Media Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11868808",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Public Courts (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19361568",
+        "matched": "WUDIL (7910329)",
+        "asciiname": "Wudil",
+        "feature": "ADM2",
+        "source": "Thief (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19164957",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Chibuike Rotimi Amaechi",
+        "event_text": {
+
+        },
+        "target": "Militant (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4457555",
+        "matched": "GUSAU (2339937)",
+        "asciiname": "Gusau",
+        "feature": "PPLA",
+        "source": "Other Authorities / Officials (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8846312",
+        "matched": "ABAKALIKI (2353099)",
+        "asciiname": "Abakaliki",
+        "feature": "PPLA",
+        "source": "Sam Ominyi Egwu",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21068484",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Armed Gang (Boko Haram)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22700895",
+        "matched": "JEGA (7873918)",
+        "asciiname": "Jega",
+        "feature": "ADM2",
+        "source": "Attahiru Muhammadu Jega",
+        "event_text": {
+
+        },
+        "target": "Independent National Electoral Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18218132",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12899413",
+        "matched": "MAR (2330860)",
+        "asciiname": "Mar",
+        "feature": "PPL",
+        "source": "Somalia",
+        "event_text": {
+
+        },
+        "target": "Military Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15830980",
+        "matched": "JOS (2335953)",
+        "asciiname": "Jos",
+        "feature": "PPLA",
+        "source": "Military Personnel - Special (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17549451",
+        "matched": "CALABAR (2346229)",
+        "asciiname": "Calabar",
+        "feature": "PPLA",
+        "source": "Liyel Imoke",
+        "event_text": {
+
+        },
+        "target": "Daily Trust"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23351439",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Children (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16879731",
+        "matched": "RIGA (2324514)",
+        "asciiname": "Riga",
+        "feature": "PPL",
+        "source": "Criminal (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Men (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13645631",
+        "matched": "RIVERS STATE (2324433)",
+        "asciiname": "Rivers State",
+        "feature": "ADM1",
+        "source": "Movement for the Emancipation of the Niger Delta",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6342821",
+        "matched": "MADE (2331672)",
+        "asciiname": "Made",
+        "feature": "PPL",
+        "source": "Peacekeeping Troop (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Liberia"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23191020",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Mob (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23010590",
+        "matched": "DAVID (7100682)",
+        "asciiname": "David",
+        "feature": "PPL",
+        "source": "Chibuike Rotimi Amaechi",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17073159",
+        "matched": "LAWAN (2332186)",
+        "asciiname": "Lawan",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Daily Trust"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3448134",
+        "matched": "SULE (2322796)",
+        "asciiname": "Sule",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Australia"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23382250",
+        "matched": "PORT HARCOURT (7873928)",
+        "asciiname": "Port Harcourt",
+        "feature": "ADM2",
+        "source": "Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22777969",
+        "matched": "ADO (2352387)",
+        "asciiname": "Ado",
+        "feature": "PPL",
+        "source": "People's Democratic Party (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Kayode Fayemi"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12539498",
+        "matched": "HUMAN (2339416)",
+        "asciiname": "Human",
+        "feature": "PPL",
+        "source": "Human Rights Group (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Amnesty International"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22831954",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Boko Haram",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13978566",
+        "matched": "ONITSHA (2326016)",
+        "asciiname": "Onitsha",
+        "feature": "PPL",
+        "source": "Mike Mbama Okiro",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16506746",
+        "matched": "RIBADU (2324535)",
+        "asciiname": "Ribadu",
+        "feature": "PPL",
+        "source": "Economic and Financial Crimes Commission",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21403383",
+        "matched": "OWERRI (2325329)",
+        "asciiname": "Owerri",
+        "feature": "PPL",
+        "source": "Employee (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Unspecified Actor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15534232",
+        "matched": "OBAMA (2328356)",
+        "asciiname": "Obama",
+        "feature": "PPL",
+        "source": "Federal Bureau of Investigation",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9851235",
+        "matched": "OJO (7871297)",
+        "asciiname": "Ojo",
+        "feature": "ADM2",
+        "source": "Brazil",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16196122",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Foreign Affairs (United States)",
+        "event_text": {
+
+        },
+        "target": "Independent National Electoral Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15298712",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Saudi Arabia",
+        "event_text": {
+
+        },
+        "target": "Umaru Musa Yar'Adua"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21683774",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Atiku Abubakar",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11291750",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Umaru Musa Yar'Adua",
+        "event_text": {
+
+        },
+        "target": "Healthcare Facility (Germany)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22852502",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Domestic Affairs (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "National Security Advisor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5886003",
+        "matched": "DID (2344904)",
+        "asciiname": "Did",
+        "feature": "PPL",
+        "source": "Militant (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20702839",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Women (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Other Authorities / Officials (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23509790",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Alex Badeh",
+        "event_text": {
+
+        },
+        "target": "High Ranking Military Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17349803",
+        "matched": "ILORIN (2337638)",
+        "asciiname": "Ilorin",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Public Courts (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18179040",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Peter Godsday Orubebe",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12671405",
+        "matched": "LIKE (2332021)",
+        "asciiname": "Like",
+        "feature": "PPL",
+        "source": "Men (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Media (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16097419",
+        "matched": "YOLA (2318036)",
+        "asciiname": "Yola",
+        "feature": "PPL",
+        "source": "Other Authorities / Officials (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22917431",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Maxi Okwu",
+        "event_text": {
+
+        },
+        "target": "Willie Obiano"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16203198",
+        "matched": "NIGER (2328928)",
+        "asciiname": "Niger",
+        "feature": "STM",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Niger"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22804400",
+        "matched": "CHIBOK (2346076)",
+        "asciiname": "Chibok",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18325591",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Africa)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7283194",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Bank (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23666920",
+        "matched": "OGUN STATE (2327546)",
+        "asciiname": "Ogun State",
+        "feature": "ADM1",
+        "source": "All Progressives Congress",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5297319",
+        "matched": "MORE (2329922)",
+        "asciiname": "More",
+        "feature": "PPL",
+        "source": "John Howard",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16415774",
+        "matched": "GARBA (2341905)",
+        "asciiname": "Garba",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Education (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15655615",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Government (United States)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21007273",
+        "matched": "JAN (2336511)",
+        "asciiname": "Jan",
+        "feature": "PPL",
+        "source": "State Security Service",
+        "event_text": {
+
+        },
+        "target": "Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20156170",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "United Kingdom"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15822747",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22965744",
+        "matched": "TEACHER (2322276)",
+        "asciiname": "Teacher",
+        "feature": "PPL",
+        "source": "Court Judge (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Member of the Judiciary (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20829896",
+        "matched": "ORUMBA SOUTH (7701537)",
+        "asciiname": "Orumba South",
+        "feature": "ADM2",
+        "source": "Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7075145",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Niger",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4449636",
+        "matched": "TIME (2322123)",
+        "asciiname": "Time",
+        "feature": "PPL",
+        "source": "Nigeria Labour Congress",
+        "event_text": {
+
+        },
+        "target": "Labor Union (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15757440",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Islamic Preacher (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Muslim (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4973820",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "People's Democratic Party (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Victor Bassey Attah"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18844915",
+        "matched": "DAVID (7100682)",
+        "asciiname": "David",
+        "feature": "PPL",
+        "source": "Court Judge (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "David Mark"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17674796",
+        "matched": "DID (2344904)",
+        "asciiname": "Did",
+        "feature": "PPL",
+        "source": "Koha Ditore",
+        "event_text": {
+
+        },
+        "target": "Other Authorities / Officials (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15935543",
+        "matched": "HERE (7015671)",
+        "asciiname": "Here",
+        "feature": "PPL",
+        "source": "India",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12215040",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Yinka Odumakin",
+        "event_text": {
+
+        },
+        "target": "Afenifere"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3364725",
+        "matched": "ACHI (2352684)",
+        "asciiname": "Achi",
+        "feature": "PPL",
+        "source": "Laurent Gbagbo",
+        "event_text": {
+
+        },
+        "target": "Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17982644",
+        "matched": "KOGI (2334224)",
+        "asciiname": "Kogi",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Military Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16240825",
+        "matched": "IBRAHIM (7019420)",
+        "asciiname": "Ibrahim",
+        "feature": "PPL",
+        "source": "Ibrahim Badamasi Babangida",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17696835",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23308158",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Babatunde Raji Fashola",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17953206",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Boko Haram",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7922889",
+        "matched": "YENAGOA (2318123)",
+        "asciiname": "Yenagoa",
+        "feature": "PPLA",
+        "source": "Media (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Mujahid Dokubo-Asari"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5245671",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Secret Agent (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16483466",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Kidnapper (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14893024",
+        "matched": "MORE (2329922)",
+        "asciiname": "More",
+        "feature": "PPL",
+        "source": "Criminal (India)",
+        "event_text": {
+
+        },
+        "target": "National Drug Law Enforcement Agency"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16291070",
+        "matched": "DID (2344904)",
+        "asciiname": "Did",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Unspecified Actor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15303321",
+        "matched": "ALI (2350437)",
+        "asciiname": "Ali",
+        "feature": "PPL",
+        "source": "Oversight Court (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Independent National Electoral Commission"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23220185",
+        "matched": "MADE (2331672)",
+        "asciiname": "Made",
+        "feature": "PPL",
+        "source": "Iran",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16814014",
+        "matched": "BAYELSA STATE (2595344)",
+        "asciiname": "Bayelsa State",
+        "feature": "ADM1",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8946378",
+        "matched": "KWANKWASO (2332811)",
+        "asciiname": "Kwankwaso",
+        "feature": "PPL",
+        "source": "Turkey",
+        "event_text": {
+
+        },
+        "target": "Defense / Security Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10198162",
+        "matched": "IBRAHIM (7019420)",
+        "asciiname": "Ibrahim",
+        "feature": "PPL",
+        "source": "North Korea",
+        "event_text": {
+
+        },
+        "target": "Democratic Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13477191",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Bola Ajibola",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10983664",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Festus Keyamo",
+        "event_text": {
+
+        },
+        "target": "Court Judge (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19679036",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "European Union"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23443241",
+        "matched": "PORT HARCOURT (7873928)",
+        "asciiname": "Port Harcourt",
+        "feature": "ADM2",
+        "source": "All Progressives Congress",
+        "event_text": {
+
+        },
+        "target": "Criminal (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17108604",
+        "matched": "TARABA STATE (2597366)",
+        "asciiname": "Taraba State",
+        "feature": "ADM1",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Babangida Aliyu"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17092970",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Ahmad Mohamed Ibrahim"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15655626",
+        "matched": "USE (2319628)",
+        "asciiname": "Use",
+        "feature": "PPL",
+        "source": "Your Party",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15568648",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Danjuma Goje",
+        "event_text": {
+
+        },
+        "target": "Godswill Obot Akpabio"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22827150",
+        "matched": "TIME (2322123)",
+        "asciiname": "Time",
+        "feature": "PPL",
+        "source": "Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Senate (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20387163",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Guinea-Bissau"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14873263",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14100211",
+        "matched": "UMEH (2320611)",
+        "asciiname": "Umeh",
+        "feature": "PPL",
+        "source": "Victor Umeh",
+        "event_text": {
+
+        },
+        "target": "Member of the Judiciary (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17674045",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Boko Haram",
+        "event_text": {
+
+        },
+        "target": "United Nations"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22847782",
+        "matched": "BAMA (2347954)",
+        "asciiname": "Bama",
+        "feature": "PPLA2",
+        "source": "High Ranking Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigerian Air Force"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9711701",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Foreign Affairs (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Party Member (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8265428",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "High Commission (Canada)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23465885",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Atiku Abubakar",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22510058",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20335506",
+        "matched": "ILORIN (2337638)",
+        "asciiname": "Ilorin",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Main Opposition (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23626100",
+        "matched": "RAGE (6974468)",
+        "asciiname": "Rage",
+        "feature": "PPL",
+        "source": "Balarabe Musa",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18489145",
+        "matched": "OSUN STATE (2597365)",
+        "asciiname": "Osun State",
+        "feature": "ADM1",
+        "source": "Rauf Aregbesola",
+        "event_text": {
+
+        },
+        "target": "Nigerian Television Authority"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18304981",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Environment Department/Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6947683",
+        "matched": "OSOGBO (2325590)",
+        "asciiname": "Osogbo",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "National Conscience Party"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17062702",
+        "matched": "YOLA (2318036)",
+        "asciiname": "Yola",
+        "feature": "PPL",
+        "source": "Other Authorities / Officials (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Men (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21134337",
+        "matched": "TIME (2322123)",
+        "asciiname": "Time",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14588195",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Secret Agent (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Militant (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15665972",
+        "matched": "JOS (2335953)",
+        "asciiname": "Jos",
+        "feature": "PPLA",
+        "source": "Nigerian Red Cross Society",
+        "event_text": {
+
+        },
+        "target": "Displaced Families (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16775388",
+        "matched": "ONITSHA (2326016)",
+        "asciiname": "Onitsha",
+        "feature": "PPL",
+        "source": "Peter Obi",
+        "event_text": {
+
+        },
+        "target": "Industry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9933835",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Member of the Judiciary (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "7272205",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16073783",
+        "matched": "POOR (2324789)",
+        "asciiname": "Poor",
+        "feature": "PPL",
+        "source": "Director General (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17568242",
+        "matched": "YANKARI (2318335)",
+        "asciiname": "Yankari",
+        "feature": "PPL",
+        "source": "Mallam Isa Yuguda",
+        "event_text": {
+
+        },
+        "target": "China"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21771454",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Dora Akunyili",
+        "event_text": {
+
+        },
+        "target": "United Nations Children's Fund"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22924952",
+        "matched": "ANAMBRA STATE (2349961)",
+        "asciiname": "Anambra State",
+        "feature": "ADM1",
+        "source": "Citizen (China)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23601772",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Boko Haram",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20911920",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Congress for Progressive Change",
+        "event_text": {
+
+        },
+        "target": "Unspecified Actor"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17743917",
+        "matched": "ZAMFARA STATE (2595349)",
+        "asciiname": "Zamfara State",
+        "feature": "ADM1",
+        "source": "Attacker (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18391044",
+        "matched": "MAR (2330860)",
+        "asciiname": "Mar",
+        "feature": "PPL",
+        "source": "Armed Gang (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Industry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14770096",
+        "matched": "LIKE (2332021)",
+        "asciiname": "Like",
+        "feature": "PPL",
+        "source": "Lawyer/Attorney (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18226571",
+        "matched": "ALHAJI (2350444)",
+        "asciiname": "Alhaji",
+        "feature": "PPL",
+        "source": "Company - Owner or Operator (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8957074",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Member of the Judiciary (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Muhammadu Buhari"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "6050307",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Lawyer/Attorney (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Weekly Trust"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3963648",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Central Bank of Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "2672501",
+        "matched": "KADUNA (2335727)",
+        "asciiname": "Kaduna",
+        "feature": "PPLA",
+        "source": "Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Education (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21018562",
+        "matched": "OTTA (2325457)",
+        "asciiname": "Otta",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "People's Democratic Party (Norway)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4228871",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "2924195",
+        "matched": "TAI (7701524)",
+        "asciiname": "Tai",
+        "feature": "ADM2",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Industry (Turkey)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20301009",
+        "matched": "MALI (7040174)",
+        "asciiname": "Mali",
+        "feature": "PPL",
+        "source": "High Ranking Military Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19107960",
+        "matched": "KADUNA (2335727)",
+        "asciiname": "Kaduna",
+        "feature": "PPLA",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Nigerian Supreme Council for Islamic Affairs"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10545520",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Independent Corrupt Practices Commission",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16203148",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21321281",
+        "matched": "GWOZA (2339665)",
+        "asciiname": "Gwoza",
+        "feature": "PPLA2",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20027528",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Inspector General (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12891220",
+        "matched": "MAR (2330860)",
+        "asciiname": "Mar",
+        "feature": "PPL",
+        "source": "Governor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Action Congress of Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16591426",
+        "matched": "SAMBO (2323838)",
+        "asciiname": "Sambo",
+        "feature": "PPL",
+        "source": "Adams Oshiomhole",
+        "event_text": {
+
+        },
+        "target": "Nigeria Labour Congress"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18648049",
+        "matched": "LAFIA (7932056)",
+        "asciiname": "Lafia",
+        "feature": "ADM2",
+        "source": "Muhammadu Buhari",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23392599",
+        "matched": "KOGI (2334224)",
+        "asciiname": "Kogi",
+        "feature": "PPL",
+        "source": "Federal Road Safety Commission",
+        "event_text": {
+
+        },
+        "target": "Criminal (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4022886",
+        "matched": "KANO (2335203)",
+        "asciiname": "Kano",
+        "feature": "PPL",
+        "source": "United Nations Mission in Sierra Leone",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5346159",
+        "matched": "GOMBE (2340451)",
+        "asciiname": "Gombe",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Senate (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10603655",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Police (India)",
+        "event_text": {
+
+        },
+        "target": "Indigenous People (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17466935",
+        "matched": "KATSINA STATE (2334797)",
+        "asciiname": "Katsina State",
+        "feature": "ADM1",
+        "source": "Ibrahim Shehu Shema",
+        "event_text": {
+
+        },
+        "target": "Foreign Affairs (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8845731",
+        "matched": "ENUGU (2343279)",
+        "asciiname": "Enugu",
+        "feature": "PPLA",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Student (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20219876",
+        "matched": "SULEJA (2322794)",
+        "asciiname": "Suleja",
+        "feature": "PPL",
+        "source": "Member of the Judiciary (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8187859",
+        "matched": "MADE (2331672)",
+        "asciiname": "Made",
+        "feature": "PPL",
+        "source": "Virgin Atlantic Airways",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20328852",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19490755",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Director General (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Vanguard"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9197667",
+        "matched": "GHANA (6974494)",
+        "asciiname": "Ghana",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Burkina Faso"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3291755",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Yoshiro Mori"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18463364",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Thief (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17601053",
+        "matched": "ABEOKUTA (2352947)",
+        "asciiname": "Abeokuta",
+        "feature": "PPLA",
+        "source": "House of Representatives (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "People's Democratic Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20535524",
+        "matched": "KADUNA (2335727)",
+        "asciiname": "Kaduna",
+        "feature": "PPLA",
+        "source": "Mukhtar Ramalan Yero",
+        "event_text": {
+
+        },
+        "target": "Member of Legislative (Govt) (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15013954",
+        "matched": "NNAMDI AZIKIWE INTERNATIONAL AIRPORT (7649170)",
+        "asciiname": "Nnamdi Azikiwe International Airport",
+        "feature": "AIRP",
+        "source": "Citizen (Israel)",
+        "event_text": {
+
+        },
+        "target": "Ojo Maduekwe"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5647072",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Tunji Oseni",
+        "event_text": {
+
+        },
+        "target": "Government (Sudan)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4569922",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Nigerian Railway Corporation",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18587668",
+        "matched": "IKA (2338341)",
+        "asciiname": "Ika",
+        "feature": "PPL",
+        "source": "Thief (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Police (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5355738",
+        "matched": "GANI (2342012)",
+        "asciiname": "Gani",
+        "feature": "PPL",
+        "source": "Abdul-Ganiyu Oyesola Fawehinmi",
+        "event_text": {
+
+        },
+        "target": "Ghali Umar Na'Abba"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18008424",
+        "matched": "KASAI (2334936)",
+        "asciiname": "Kasai",
+        "feature": "PPL",
+        "source": "Independent National Electoral Commission",
+        "event_text": {
+
+        },
+        "target": "Citizen (Democratic Republic of Congo)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15535841",
+        "matched": "CALABAR (2346229)",
+        "asciiname": "Calabar",
+        "feature": "PPLA",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "United States"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16433646",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "People's Democratic Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15535341",
+        "matched": "SANNI (2323704)",
+        "asciiname": "Sanni",
+        "feature": "PPL",
+        "source": "Member of the Judiciary (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16351132",
+        "matched": "DELTA STATE (2565341)",
+        "asciiname": "Delta State",
+        "feature": "ADM1",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Criminal (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16206109",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Cabinet / Council of Ministers / Advisors (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10872522",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Party Member (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Olu??gun ?basanj?"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19431806",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Member of the Judiciary (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23163907",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Africa"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20240208",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Kenya",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9292934",
+        "matched": "RIVERS STATE (2324433)",
+        "asciiname": "Rivers State",
+        "feature": "ADM1",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Peter Otunuya Odili"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "9334391",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Bank (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22809868",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "High Commission (United Kingdom)",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17690140",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Citizen (International)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22500480",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Secretariat (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19484484",
+        "matched": "GWAGWALADA (2339863)",
+        "asciiname": "Gwagwalada",
+        "feature": "PPL",
+        "source": "Farm Worker (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Fulani herdsmen"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18059040",
+        "matched": "JAM (2336559)",
+        "asciiname": "Jam",
+        "feature": "PPL",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Chibuike Rotimi Amaechi"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14866400",
+        "matched": "OSOGBO (2325590)",
+        "asciiname": "Osogbo",
+        "feature": "PPLA",
+        "source": "Employee (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Business (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13083515",
+        "matched": "ARE (2349449)",
+        "asciiname": "Are",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Ministry/Department of Technology (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14368382",
+        "matched": "MAR (2330860)",
+        "asciiname": "Mar",
+        "feature": "PPL",
+        "source": "Economic and Financial Crimes Commission",
+        "event_text": {
+
+        },
+        "target": "Court Judge (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17605714",
+        "matched": "ENUGU (2343279)",
+        "asciiname": "Enugu",
+        "feature": "PPLA",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Separatist (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20124745",
+        "matched": "AGO (2351802)",
+        "asciiname": "Ago",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5964672",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Cabinet / Council of Ministers / Advisors (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19195012",
+        "matched": "AKURE (2350839)",
+        "asciiname": "Akure",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Criminal (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "19111275",
+        "matched": "NIGER (2328928)",
+        "asciiname": "Niger",
+        "feature": "STM",
+        "source": "Police (Niger)",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14733678",
+        "matched": "GHANA (6974494)",
+        "asciiname": "Ghana",
+        "feature": "PPL",
+        "source": "Head of Government (Ghana)",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18166125",
+        "matched": "NORTH (2328724)",
+        "asciiname": "North",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Armed Gang (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8819725",
+        "matched": "TAKE (6826013)",
+        "asciiname": "Take",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Adebisi Akande"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "11078688",
+        "matched": "LARGE (8720465)",
+        "asciiname": "Large",
+        "feature": "PPL",
+        "source": "Other Authorities / Officials (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "People's Democratic Party (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18272396",
+        "matched": "KANO (2335203)",
+        "asciiname": "Kano",
+        "feature": "PPL",
+        "source": "United States",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18336923",
+        "matched": "DUTSE (2344245)",
+        "asciiname": "Dutse",
+        "feature": "PPLA",
+        "source": "Scholar (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Professor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20079351",
+        "matched": "YENAGOA (2318123)",
+        "asciiname": "Yenagoa",
+        "feature": "PPLA",
+        "source": "Ministry (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Governor (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "16257365",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Goodluck Jonathan",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17062964",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Congress for Progressive Change",
+        "event_text": {
+
+        },
+        "target": "Attahiru Muhammadu Jega"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18938069",
+        "matched": "BOKO (2346885)",
+        "asciiname": "Boko",
+        "feature": "PPL",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23213258",
+        "matched": "ORON (2325688)",
+        "asciiname": "Oron",
+        "feature": "PPL",
+        "source": "China",
+        "event_text": {
+
+        },
+        "target": "Goodluck Jonathan"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "15065471",
+        "matched": "HIM (2339493)",
+        "asciiname": "Him",
+        "feature": "PPL",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23381198",
+        "matched": "FRIDAY (7040759)",
+        "asciiname": "Friday",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Military (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "8878101",
+        "matched": "MADE (2331672)",
+        "asciiname": "Made",
+        "feature": "PPL",
+        "source": "International Labor Organization",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "14749795",
+        "matched": "NIGER DELTA (2328927)",
+        "asciiname": "Niger Delta",
+        "feature": "DLTA",
+        "source": "Head of Government (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Militant (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "5490094",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Senate (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Arthur Nzeribe"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20297873",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Extremist (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12534024",
+        "matched": "GWOZA LOCAL GOVERNMENT AREA (8659839)",
+        "asciiname": "Gwoza Local Government Area",
+        "feature": "ADM2",
+        "source": "Police (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Children (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20009163",
+        "matched": "LOKOJA (2331939)",
+        "asciiname": "Lokoja",
+        "feature": "PPLA",
+        "source": "Lawmaker (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "18485459",
+        "matched": "ALHAJI (2350444)",
+        "asciiname": "Alhaji",
+        "feature": "PPL",
+        "source": "Olusegun Mimiko",
+        "event_text": {
+
+        },
+        "target": "Civil Service (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13066309",
+        "matched": "MICHIKA (2330157)",
+        "asciiname": "Michika",
+        "feature": "PPL",
+        "source": "Criminal (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "12655859",
+        "matched": "BENUE (2347270)",
+        "asciiname": "Benue",
+        "feature": "PPL",
+        "source": "Senate (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "George Akume"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23484722",
+        "matched": "TINUBU (2322086)",
+        "asciiname": "Tinubu",
+        "feature": "PPL",
+        "source": "Media (Africa)",
+        "event_text": {
+
+        },
+        "target": "Media Personnel (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17195085",
+        "matched": "TIME (2322123)",
+        "asciiname": "Time",
+        "feature": "PPL",
+        "source": "Military (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Citizen (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3675735",
+        "matched": "RUF (2324372)",
+        "asciiname": "Ruf",
+        "feature": "PPL",
+        "source": "Armed Rebel (Revolutionary United Front)",
+        "event_text": {
+
+        },
+        "target": "Peacekeeping Troop (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22723179",
+        "matched": "LAGOS (2332459)",
+        "asciiname": "Lagos",
+        "feature": "PPL",
+        "source": "Professor (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Education Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "3357753",
+        "matched": "KADUNA (2335727)",
+        "asciiname": "Kaduna",
+        "feature": "PPLA",
+        "source": "Ibrahim Badamasi Babangida",
+        "event_text": {
+
+        },
+        "target": "Indigenous People (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17178914",
+        "matched": "ADAMAWA (2352603)",
+        "asciiname": "Adamawa",
+        "feature": "PPL",
+        "source": "Congress for Progressive Change",
+        "event_text": {
+
+        },
+        "target": "Government (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "10777934",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Senate (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Ministry (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "20494703",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Media Personnel (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Media (Africa)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "4970336",
+        "matched": "ABUJA (2352777)",
+        "asciiname": "Abuja",
+        "feature": "PPL",
+        "source": "Business (China)",
+        "event_text": {
+
+        },
+        "target": "Atiku Abubakar"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "22905052",
+        "matched": "ORJI (2325731)",
+        "asciiname": "Orji",
+        "feature": "PPL",
+        "source": "Emmanuel Eweta Uduaghan",
+        "event_text": {
+
+        },
+        "target": "Godswill Obot Akpabio"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "23205235",
+        "matched": "MORE (2329922)",
+        "asciiname": "More",
+        "feature": "PPL",
+        "source": "Hossein Sheikholeslam",
+        "event_text": {
+
+        },
+        "target": "Boko Haram"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "21045862",
+        "matched": "BARE (2347643)",
+        "asciiname": "Bare",
+        "feature": "PPL",
+        "source": "Citizen (Nigeria)",
+        "event_text": {
+
+        },
+        "target": "Other Authorities / Officials (Nigeria)"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13806216",
+        "matched": "VIA (2319425)",
+        "asciiname": "Via",
+        "feature": "PPL",
+        "source": "Action Congress of Nigeria",
+        "event_text": {
+
+        },
+        "target": "Nigeria"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "13908601",
+        "matched": "FRIDAY (7040759)",
+        "asciiname": "Friday",
+        "feature": "PPL",
+        "source": "Olu??gun ?basanj?",
+        "event_text": {
+
+        },
+        "target": "Democratic Republic of Congo"
+    }
+}
+,
+{
+    "model": "geoGrading.Event",
+    "fields": {
+        "event_Id": "17511287",
+        "matched": "MAIDUGURI (2331447)",
+        "asciiname": "Maiduguri",
+        "feature": "PPLA",
+        "source": "Nigeria",
+        "event_text": {
+
+        },
+        "target": "Mohammed Yusuf"
+    }
+}
+]
