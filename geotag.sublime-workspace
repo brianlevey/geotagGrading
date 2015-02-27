@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"True",
+				"TrueLocation	class"
+			],
+			[
+				"Event",
+				"Event	class"
+			],
+			[
 				"geotag",
 				"geotagGrading	import"
 			],
@@ -23,13 +31,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/User/JSC.sublime-build",
 	"command_palette":
@@ -79,6 +80,9 @@
 	"file_history":
 	[
 		"/Users/brianlevey/geotag/geotag/settings.py",
+		"/Users/brianlevey/geotag/templates/admin/base_site.html",
+		"/Users/brianlevey/geotag/geoGrading/admin.py",
+		"/Users/brianlevey/geotag/geoGrading/models.py",
 		"/Users/brianlevey/geotag/geotagGrading/views.py",
 		"/Users/brianlevey/geotag/geotagGrading/admin.py",
 		"/Users/brianlevey/geotag/geotagGrading/urls.py",
@@ -181,36 +185,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
