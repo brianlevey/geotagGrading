@@ -1,0 +1,5 @@
+<ul>
+  {% for event in event_list %}
+    <li><a href="{% url 'geoGrading:detail' event.id %}">{{ event.event_Id }}</a> {{event.asciiname}}</li>
+  {% endfor %}
+</ul>

@@ -1,5 +1,4 @@
 from django.conf.urls import patterns, url
-
 from geoGrading import views
 
 urlpatterns = patterns('',
